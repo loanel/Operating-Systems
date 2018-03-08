@@ -1,0 +1,957 @@
+STATIC (every Creation signifies another test in order : Zero, Two, Three, Fast)
+Creation :
+List
+'Real' measurement : difference since last = 0.003229000000, time elapsed since start = 0.003229000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001313000000, time elapsed since start = 0.004542000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.004545000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.004547000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000013000000, time elapsed since start = 0.004560000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.004562000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.004564000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.004566000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.004575000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.004577000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000202000000, time elapsed since start = 0.004779000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001113000000, time elapsed since start = 0.005892000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000030000000, time elapsed since start = 0.005922000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000046000000, time elapsed since start = 0.005968000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.000908000000, time elapsed since start = 0.000908000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001246000000, time elapsed since start = 0.002154000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000004000000, time elapsed since start = 0.002158000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.002161000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000046000000, time elapsed since start = 0.002207000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.002210000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002212000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002214000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000011000000, time elapsed since start = 0.002225000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.002228000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000215000000, time elapsed since start = 0.002443000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001163000000, time elapsed since start = 0.003606000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000037000000, time elapsed since start = 0.003643000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000042000000, time elapsed since start = 0.003685000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.001017000000, time elapsed since start = 0.001017000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001038000000, time elapsed since start = 0.002055000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002057000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.002060000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000011000000, time elapsed since start = 0.002071000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002073000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002075000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002077000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.002086000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.002088000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000204000000, time elapsed since start = 0.002292000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001105000000, time elapsed since start = 0.003397000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000030000000, time elapsed since start = 0.003427000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000057000000, time elapsed since start = 0.003484000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.000844000000, time elapsed since start = 0.000844000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001026000000, time elapsed since start = 0.001870000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000003000000, time elapsed since start = 0.001873000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.001875000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000017000000, time elapsed since start = 0.001892000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.001894000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.001896000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.001898000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000013000000, time elapsed since start = 0.001911000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000002000000, time elapsed since start = 0.001913000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000212000000, time elapsed since start = 0.002125000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.001095000000, time elapsed since start = 0.003220000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000031000000, time elapsed since start = 0.003251000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000046000000, time elapsed since start = 0.003297000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+
+SHARED
+
+Creation :
+List
+'Real' measurement : difference since last = 0.004241000000, time elapsed since start = 0.004241000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004937000000, time elapsed since start = 0.009178000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000017000000, time elapsed since start = 0.009195000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000012000000, time elapsed since start = 0.009207000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000075000000, time elapsed since start = 0.009282000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.009290000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000010000000, time elapsed since start = 0.009300000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.009309000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000037000000, time elapsed since start = 0.009346000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.009354000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000815000000, time elapsed since start = 0.010169000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004907000000, time elapsed since start = 0.015076000000
+'User' measurement : difference since last = 0.000001000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000110000000, time elapsed since start = 0.015186000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000148000000, time elapsed since start = 0.015334000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.003529000000, time elapsed since start = 0.003529000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003580000000, time elapsed since start = 0.007109000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000010000000, time elapsed since start = 0.007119000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.007128000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000055000000, time elapsed since start = 0.007183000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.007190000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.007198000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.007206000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000029000000, time elapsed since start = 0.007235000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.007242000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000682000000, time elapsed since start = 0.007924000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004489000000, time elapsed since start = 0.012413000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000139000000, time elapsed since start = 0.012552000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000117000000, time elapsed since start = 0.012669000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.002806000000, time elapsed since start = 0.002806000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003388000000, time elapsed since start = 0.006194000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.006203000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.006211000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000033000000, time elapsed since start = 0.006244000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.006250000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.006257000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.006264000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000027000000, time elapsed since start = 0.006291000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000005000000, time elapsed since start = 0.006296000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000609000000, time elapsed since start = 0.006905000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004063000000, time elapsed since start = 0.010968000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000090000000, time elapsed since start = 0.011058000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000094000000, time elapsed since start = 0.011152000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.002549000000, time elapsed since start = 0.002549000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003066000000, time elapsed since start = 0.005615000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.005623000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.005631000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000034000000, time elapsed since start = 0.005665000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005671000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005677000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.005684000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000025000000, time elapsed since start = 0.005709000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005715000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000558000000, time elapsed since start = 0.006273000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004068000000, time elapsed since start = 0.010341000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000132000000, time elapsed since start = 0.010473000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000118000000, time elapsed since start = 0.010591000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+
+DL :
+
+Creation :
+List
+'Real' measurement : difference since last = 0.004285000000, time elapsed since start = 0.004285000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.004796000000, time elapsed since start = 0.009081000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000016000000, time elapsed since start = 0.009097000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000013000000, time elapsed since start = 0.009110000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000076000000, time elapsed since start = 0.009186000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.009194000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000010000000, time elapsed since start = 0.009204000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.009212000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000037000000, time elapsed since start = 0.009249000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.009257000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000829000000, time elapsed since start = 0.010086000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003653000000, time elapsed since start = 0.013739000000
+'User' measurement : difference since last = 0.000001000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000143000000, time elapsed since start = 0.013882000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000152000000, time elapsed since start = 0.014034000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.003688000000, time elapsed since start = 0.003688000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003659000000, time elapsed since start = 0.007347000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.007355000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000009000000, time elapsed since start = 0.007364000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000059000000, time elapsed since start = 0.007423000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.007430000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.007437000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.007444000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000030000000, time elapsed since start = 0.007474000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.007480000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000665000000, time elapsed since start = 0.008145000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003390000000, time elapsed since start = 0.011535000000
+'User' measurement : difference since last = 0.000001000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000137000000, time elapsed since start = 0.011672000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000124000000, time elapsed since start = 0.011796000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000001000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.002504000000, time elapsed since start = 0.002504000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.003196000000, time elapsed since start = 0.005700000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.005707000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000008000000, time elapsed since start = 0.005715000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000039000000, time elapsed since start = 0.005754000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005760000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005766000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005772000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000028000000, time elapsed since start = 0.005800000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005806000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000605000000, time elapsed since start = 0.006411000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.002877000000, time elapsed since start = 0.009288000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000083000000, time elapsed since start = 0.009371000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000082000000, time elapsed since start = 0.009453000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Creation :
+List
+'Real' measurement : difference since last = 0.002311000000, time elapsed since start = 0.002311000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.002824000000, time elapsed since start = 0.005135000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Finding :
+Optimistic:
+List
+'Real' measurement : difference since last = 0.000007000000, time elapsed since start = 0.005142000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005148000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000032000000, time elapsed since start = 0.005180000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000005000000, time elapsed since start = 0.005185000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Removing :
+ Optimistic:
+List
+'Real' measurement : difference since last = 0.000006000000, time elapsed since start = 0.005191000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000005000000, time elapsed since start = 0.005196000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Pessimistic
+List
+'Real' measurement : difference since last = 0.000024000000, time elapsed since start = 0.005220000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000005000000, time elapsed since start = 0.005225000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Sorting :
+List
+'Real' measurement : difference since last = 0.000517000000, time elapsed since start = 0.005742000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.002621000000, time elapsed since start = 0.008363000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Destroying :
+List
+'Real' measurement : difference since last = 0.000077000000, time elapsed since start = 0.008440000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+Tree
+'Real' measurement : difference since last = 0.000074000000, time elapsed since start = 0.008514000000
+'User' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+'System' measurement : difference since last = 0.000000000000, time elapsed since start = 0.000000000000
+--------
+
+Wnioski - zwiększenie poziomu optymalizacji przyspiesza wykonywanie programu w znaczący sposób dla sposobu DL, lecz dla shared oraz static zmiany nie są zbyt znaczące. Powodem tego może być to iż na optymalizacji DL można zyskać znacznie więcej niż na optymalizacji shared i static.

@@ -1,0 +1,10 @@
+./testCode testVariable
+#testVariable anything
+./testCode testVariable
+#testVariable
+./testCode testVariable
+ls -l
+pwd
+ls
+./memTest
+./cpuTest

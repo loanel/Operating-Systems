@@ -1,0 +1,3 @@
+./memTest
+ls -l
+./cpuTest

@@ -1,0 +1,96 @@
+Z pomiarów wynika iż w przypadku algorytmu sortowania bąbelkowego w mojej implementacji
+funkcje biblioteczne okazały sie prawie dla każdego przypadku danych co najmniej dwukrotnie 
+szybsze niż funkcje systemowe. Warto zauważyć że wraz z wzrostem wielkości danych różnica z prawie
+dziesięciokrotnej zmniejsza się do dwukrotnej do o wiele mniejszej (wykonałem pojedyńczy test dla rekordu
+wielkości 16384, i widać tam iż różnica jest mniej niż dwukrotna). Pozwala to stwierdzić że funkcje biblioteczne
+są potęzniejsze jeżeli dokonujemy dużej ilości wywołań funkcje biblioteczne są szybsze, lecz wraz z wzrostem 
+wielkości rekordu funkcje systemowe stają się corazto szybsze i przy rekordach dużej wielkości są one wydajniejsze.
+Jeżeli chodzi o algorytm shuffle to funkcje systemowe okazują się tutaj przeważnie wydajniejsze od funkcji
+bibliotecznych, z powodów wyżej przytoczonych - algorytm shuffle jest złożoności czasowej O(n), podczas gdy
+bubblesort O(n^2), przez co ilość wywołań w shuffle jest zdecydowanie mniejsza niż w bubblesort, przez co 
+funkcje systemowe są wydajniejsze.
+
+Sort SYS : 1000 records of 4 size
+User time : 28.000000ms , System time : 752.000000ms
+Sort LIB : 1000 records of 4 size
+User time : 52.000000ms , System time : 48.000000ms
+Shuffle SYS : 1000 records of 4 size
+User time : 0.000000ms , System time : 12.000000ms
+Shuffle LIB : 1000 records of 4 size
+User time : 4.000000ms , System time : 12.000000ms
+Sort SYS : 1000 records of 4 size
+User time : 60.000000ms , System time : 708.000000ms
+Sort LIB : 1000 records of 4 size
+User time : 56.000000ms , System time : 40.000000ms
+Shuffle SYS : 1000 records of 4 size
+User time : 4.000000ms , System time : 12.000000ms
+Shuffle LIB : 1000 records of 4 size
+User time : 8.000000ms , System time : 8.000000ms
+Sort SYS : 5000 records of 4 size
+User time : 1448.000000ms , System time : 18472.000000ms
+Sort LIB : 5000 records of 4 size
+User time : 1452.000000ms , System time : 1136.000000ms
+Shuffle SYS : 5000 records of 4 size
+User time : 16.000000ms , System time : 40.000000ms
+Shuffle LIB : 5000 records of 4 size
+User time : 8.000000ms , System time : 80.000000ms
+Sort SYS : 1000 records of 512 size
+User time : 68.000000ms , System time : 860.000000ms
+Sort LIB : 1000 records of 512 size
+User time : 112.000000ms , System time : 88.000000ms
+Shuffle SYS : 1000 records of 512 size
+User time : 0.000000ms , System time : 16.000000ms
+Shuffle LIB : 1000 records of 512 size
+User time : 4.000000ms , System time : 16.000000ms
+Sort SYS : 5000 records of 512 size
+User time : 1484.000000ms , System time : 21144.000000ms
+Sort LIB : 5000 records of 512 size
+User time : 2072.000000ms , System time : 2196.000000ms
+Shuffle SYS : 5000 records of 512 size
+User time : 12.000000ms , System time : 68.000000ms
+Shuffle LIB : 5000 records of 512 size
+User time : 20.000000ms , System time : 104.000000ms
+Sort SYS : 1000 records of 4096 size
+User time : 88.000000ms , System time : 1216.000000ms
+Sort LIB : 1000 records of 4096 size
+User time : 108.000000ms , System time : 592.000000ms
+Shuffle SYS : 1000 records of 4096 size
+User time : 0.000000ms , System time : 20.000000ms
+Shuffle LIB : 1000 records of 4096 size
+User time : 0.000000ms , System time : 24.000000ms
+Sort SYS : 5000 records of 4096 size
+User time : 1500.000000ms , System time : 32220.000000ms
+Sort LIB : 5000 records of 4096 size
+User time : 2084.000000ms , System time : 13032.000000ms
+Shuffle SYS : 5000 records of 4096 size
+User time : 12.000000ms , System time : 108.000000ms
+Shuffle LIB : 5000 records of 4096 size
+User time : 20.000000ms , System time : 104.000000ms
+Sort SYS : 1000 records of 8192 size
+User time : 72.000000ms , System time : 1720.000000ms
+Sort LIB : 1000 records of 8192 size
+User time : 76.000000ms , System time : 860.000000ms
+Shuffle SYS : 1000 records of 8192 size
+User time : 4.000000ms , System time : 24.000000ms
+Shuffle LIB : 1000 records of 8192 size
+User time : 4.000000ms , System time : 36.000000ms
+Sort SYS : 5000 records of 8192 size
+User time : 1556.000000ms , System time : 53376.000000ms
+Sort LIB : 5000 records of 8192 size
+User time : 2644.000000ms , System time : 23912.000000ms
+Shuffle SYS : 5000 records of 8192 size
+User time : 0.000000ms , System time : 180.000000ms
+Shuffle LIB : 5000 records of 8192 size
+User time : 12.000000ms , System time : 156.000000ms
+Sort SYS : 1000 records of 16384 size
+User time : 68.000000ms , System time : 3388.000000ms 
+Sort LIB : 1000 records of 16384 size
+User time : 104.000000ms , System time : 1880.000000ms 
+Sort SYS : 1000 records of 4 size
+User time : 28.000000ms , System time : 536.000000ms 
+Sort LIB : 1000 records of 4 size
+User time : 52.000000ms , System time : 32.000000ms 
+Shuffle SYS : 1000 records of 4 size
+User time : 0.000000ms , System time : 8.000000ms 
+Shuffle LIB : 1000 records of 4 size
+User time : 8.000000ms , System time : 0.000000ms 

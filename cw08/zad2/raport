@@ -1,0 +1,20 @@
+Przetestowanie programu dla każdej z wersji zaowocowało wynikami :
+a - wyjście z programu
+b - zatrzymanie programu
+c - brak jakiejkolwiek reakcji
+d - sygnał został obsłużony
+
+SIGUSR1 - a, c, d, c, d
+SIGTERM - a, c, d, c, d
+SIGKILL - a, a, a, a, a
+SIGSTOP - d, d, d, d, d
+
+SIGUSR1 i SIGTERM zachowują się tak samo.
+
+Przy próbie dzielenia 1/0 w jednym z wątków wszystkie wątki zostały zatrzymane,
+co spowodowało zatrzymanie programu, wypisanie komunikatu o floating point exception
+i zrzucenie core
+
+OS : Ubuntu 16.04.2 LTS - xenial
+Core : 4.4.0-66-generic
+Computer - lenovo y50-70, processor : I5-4210h
